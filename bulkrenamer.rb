@@ -1,6 +1,6 @@
 class Bulkrenamer < Formula
   desc "BulkRenamer"
-  homepage "https://github.com/gosyujin/homebrew-bulkrenamer"
+  homepage "https://github.com/gosyujin/bulkrenamer"
   head "https://github.com/gosyujin/homebrew-bulkrenamer.git"
   version "v0.1"
   url "#{homepage}/releases/download/#{version}/bulkrenamer"
